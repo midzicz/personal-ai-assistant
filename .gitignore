@@ -1,6 +1,7 @@
 # Your API key lives here. Never commit it.
 .env
 .streamlit/secrets.toml
+.venv
 
 # Python and notebook clutter
 __pycache__/
