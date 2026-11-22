@@ -62,7 +62,7 @@ Write the definition and the example sentence on separate lines.
 # ---------- Part 2: the test inputs ----------
 # The messages a visitor might send. Both prompts get the same ones.
 TEST_INPUTS = [
-    "My word of the day is lemon",
+    "My word of the day is orange.",
 ]
 
 # Read your key from the .env file, the same way your app does.

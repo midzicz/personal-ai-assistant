@@ -1,0 +1,31 @@
+======================================================================
+INPUT: My word of the day is orange.
+======================================================================
+
+--- SYSTEM PROMPT A ---
+
+[SYSTEM PROMPT A · run 1 of 3]
+An orange is a juicy citrus fruit.
+I want all the orange slices.
+
+[SYSTEM PROMPT A · run 2 of 3]
+An orange is a juicy, sweet fruit.
+I like to drink orange juice.
+
+[SYSTEM PROMPT A · run 3 of 3]
+An orange is a round fruit with a bright color and sweet juice.
+I peeled the orange for my snack.
+
+--- SYSTEM PROMPT B ---
+
+[SYSTEM PROMPT B · run 1 of 3]
+Orange is a juicy fruit.
+I like orange juice.
+
+[SYSTEM PROMPT B · run 2 of 3]
+An orange is a fruit.
+I eat an orange.
+
+[SYSTEM PROMPT B · run 3 of 3]
+An orange is a fruit.
+I eat a juicy orange.
