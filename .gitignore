@@ -2,9 +2,6 @@
 .env
 .streamlit/secrets.toml
 .venv
-experiments.md
-experiments.py
-experiments-log.txt
 
 # Python and notebook clutter
 __pycache__/
